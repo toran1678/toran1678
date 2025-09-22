@@ -48,6 +48,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
 </picture>
+
 <div align="center">
 <!-- <img src="https://raw.githubusercontent.com/toran1678/toran1678/output/snake.svg" alt="Snake animation" /> -->
 </div>
@@ -282,6 +283,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=toran1678.toran1678&"  />
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftoran1678&label=Visitor&icon=github&color=%236ea8fe&message=&style=flat&tz=UTC">
 </div>
 
 <!-- 푸터 배너 -->
