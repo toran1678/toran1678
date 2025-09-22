@@ -117,31 +117,16 @@ AI 기반의 가상 피팅, 뉴스·주가 분석, 컴퓨터 비전 앱까지 �
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toran1678&show_icons=true&theme=radical" height="160" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=toran1678&show_icons=true&theme=radical" height="160" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toran1678&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
 
-## 💬 Contact & Links
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:toran16784@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>&nbsp;
-  <!-- GitHub Pages (github.io 포트폴리오) -->
-  <a href="https://toran1678.github.io/my-blog/" title="Portfolio (github.io)">
-    <img src="https://img.shields.io/badge/github.io-222222?style=for-the-badge&logo=github&logoColor=white" alt="github.io"/>
-  </a>&nbsp;
-  <!-- GitHub 프로필 -->
-  <a href="https://github.com/toran1678" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-</p>
-
+## Contact & Links
 <p align="center">
   <a href="mailto:toran16784@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>&nbsp;
   <a href="https://toran1678.github.io/my-blog/" title="Portfolio (github.io)"><img src="https://img.shields.io/badge/github.io-222222?style=for-the-badge&logo=github&logoColor=white" alt="github.io"/></a>&nbsp;
