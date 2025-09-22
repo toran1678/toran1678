@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=640&lines=Build+things+people+use;Readable+code+·+Reliable+systems+·+Delightful+UX;Type-safe+frontends+%26+scalable+APIs;Ship+small,+learn+fast" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=640&lines=Build+things+people+use;Readable+code%2C+Reliable+systems%2C+Delightful+UX;Type-safe+frontends+%26+scalable+APIs;Ship+small%2C+learn+fast&v=2"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
