@@ -50,13 +50,7 @@
 </picture>
 
 <div align="center">
-
-### 🐍 **Contribution Snake**
-
-<img src="https://raw.githubusercontent.com/toran1678/toran1678/output/snake.svg" alt="Snake animation" />
-
-*Watch my contributions get eaten by the snake!*
-
+<!-- <img src="https://raw.githubusercontent.com/toran1678/toran1678/output/snake.svg" alt="Snake animation" /> -->
 </div>
 
 ## Featured Projects
