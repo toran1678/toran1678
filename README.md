@@ -1,5 +1,5 @@
 <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=280&section=header&text=SeonBin%20Kim&fontSize=52&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descSize=18&descAlign=50&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=280&section=header&text=SeonBin%20Kim&fontSize=52&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Continuous%20Learner&descSize=18&descAlign=50&descAlignY=70)
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1500&center=true&vCenter=true&width=800&lines=🚀+Building+the+Future+with+AI;💡+Full-Stack+Developer+%26+Problem+Solver;🎯+Creating+Meaningful+Digital+Experiences;⚡+Fast+API+%26+React+%26+Docker+Expert&v=2"
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Creating+Digital+Experiences;FastAPI+%26+React+%26+Docker&v=2"
       alt="Typing SVG"
     />
   </a>
@@ -24,18 +24,18 @@
 
 <div align="center">
 
-**"코드로 세상을 더 나은 곳으로 만들어가는 개발자"**
+**"다양한 기술을 배우고 적용하며 성장하는 개발자"**
 
 </div>
 
-안녕하세요! **toran**입니다. 🚀  
-AI 기반의 혁신적인 솔루션을 개발하는 **풀스택 개발자**입니다.
+안녕하세요! **toran**입니다. 👋  
+다양한 프로젝트를 통해 **풀스택 개발**을 학습하고 있는 개발자입니다.
 
 ### 💼 What I Do
-- 🤖 **AI/ML 기반 애플리케이션** 개발 (가상 피팅, 주가 분석, 컴퓨터 비전)
 - 🌐 **풀스택 웹 개발** (FastAPI + React + Docker)
-- 🔧 **시스템 아키텍처** 설계 및 최적화
-- 📱 **사용자 경험** 중심의 인터페이스 개발
+- 📱 **사용자 친화적인 인터페이스** 개발
+- 🔧 **다양한 기술 스택** 학습 및 적용
+- 📊 **실용적인 프로젝트** 구현
 
 ### 🎨 My Philosophy
 > **"Readable code · Reliable systems · Delightful UX"**  
@@ -63,7 +63,7 @@ AI 기반의 혁신적인 솔루션을 개발하는 **풀스택 개발자**입�
 
 <div align="center">
 
-### 💎 **AI-Powered Solutions**
+### 💎 **Featured Projects**
 
 </div>
 
@@ -71,15 +71,15 @@ AI 기반의 혁신적인 솔루션을 개발하는 **풀스택 개발자**입�
 <tr>
 <td width="50%">
 
-### 🤖 **VirtualFitting**
-*AI 가상 피팅 플랫폼*
+### 👕 **VirtualFitting**
+*가상 피팅 플랫폼*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- **OOTDiffusion** 기반 가상 피팅 AI
+- 가상 피팅 기능 구현
 - 소셜 피드, 팔로우, 옷장 관리
 - 카카오 OAuth, 비동기 작업 큐
 
@@ -89,15 +89,15 @@ AI 기반의 혁신적인 솔루션을 개발하는 **풀스택 개발자**입�
 <td width="50%">
 
 ### 📈 **Stock Analysis System**
-*뉴스·주가 분석 자동화*
+*뉴스·주가 분석 시스템*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-- **KoBERT** 감성 분석 + **LSTM** 주가 예측
-- NewsAPI → OpenAI 요약 → 카카오톡 전송
-- 실시간 데이터 처리 파이프라인
+- 뉴스 수집 및 분석
+- 주가 데이터 처리
+- 카카오톡 알림 시스템
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toran1678/news-stock-analysis-system)
 
@@ -195,13 +195,15 @@ AI 기반의 혁신적인 솔루션을 개발하는 **풀스택 개발자**입�
 ![RESTful API](https://img.shields.io/badge/RESTful_API-FE7A16?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🤖 **AI & Machine Learning**
+### 🖼️ **Image Processing & Computer Vision**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![PIL](https://img.shields.io/badge/PIL-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🗄️ **Databases & Storage**
 
@@ -264,8 +266,8 @@ AI 기반의 혁신적인 솔루션을 개발하는 **풀스택 개발자**입�
 
 - 🚀 **Exciting projects** that challenge me to grow
 - 🤝 **Collaboration opportunities** with fellow developers
-- 💡 **Innovation** in AI and web technologies
-- 🌍 **Impact** through meaningful software solutions
+- 💡 **Learning opportunities** in web technologies
+- 🌍 **Meaningful projects** that solve real problems
 
 </div>
 
