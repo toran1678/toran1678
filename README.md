@@ -61,6 +61,8 @@
 
 </div>
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%">
@@ -99,11 +101,15 @@
 </tr>
 </table>
 
+</div>
+
 <div align="center">
 
 ### 🌐 **Web Applications**
 
 </div>
+
+<div align="center">
 
 <table>
 <tr>
@@ -156,6 +162,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -254,10 +262,10 @@
 
 ### **What I'm Looking For**
 
-- **Exciting projects** that challenge me to grow
-- **Collaboration opportunities** with fellow developers
-- **Learning opportunities** in web technologies
-- **Meaningful projects** that solve real problems
+**Exciting projects** that challenge me to grow
+**Collaboration opportunities** with fellow developers
+**Learning opportunities** in web technologies
+**Meaningful projects** that solve real problems
 
 </div>
 
