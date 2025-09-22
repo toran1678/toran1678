@@ -96,7 +96,11 @@ AI 기반의 가상 피팅, 뉴스·주가 분석, 컴퓨터 비전 앱까지 �
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=1b1b1b" />&nbsp;
-  <img src="https://img.shields.io/badge/UI%2FUX-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-9B59B6?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
 </p>
 
 ---
@@ -115,11 +119,11 @@ AI 기반의 가상 피팅, 뉴스·주가 분석, 컴퓨터 비전 앱까지 �
   <!-- Gmail -->
   <a href="mailto:toran16784@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
+  </a>&nbsp;
   <!-- GitHub Pages (github.io 포트폴리오) -->
   <a href="https://toran1678.github.io/my-blog/" title="Portfolio (github.io)">
     <img src="https://img.shields.io/badge/github.io-222222?style=for-the-badge&logo=github&logoColor=white" alt="github.io"/>
-  </a>
+  </a>&nbsp;
   <!-- GitHub 프로필 -->
   <a href="https://github.com/toran1678" title="GitHub Profile">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
