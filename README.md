@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 About Me
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/target/target-original.svg" width="20" height="20"> About Me
 
 <div align="center">
 
@@ -28,16 +28,16 @@
 
 </div>
 
-안녕하세요! **toran**입니다. 👋  
+안녕하세요! **toran**입니다. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hand/hand-original.svg" width="16" height="16">  
 다양한 프로젝트를 통해 **풀스택 개발**을 학습하고 있는 개발자입니다.
 
-### 💼 What I Do
-- 🌐 **풀스택 웹 개발** (FastAPI + React + Docker)
-- 📱 **사용자 친화적인 인터페이스** 개발
-- 🔧 **다양한 기술 스택** 학습 및 적용
-- 📊 **실용적인 프로젝트** 구현
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/briefcase/briefcase-original.svg" width="20" height="20"> What I Do
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/globe/globe-original.svg" width="16" height="16"> **풀스택 웹 개발** (FastAPI + React + Docker)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mobile/mobile-original.svg" width="16" height="16"> **사용자 친화적인 인터페이스** 개발
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tools/tools-original.svg" width="16" height="16"> **다양한 기술 스택** 학습 및 적용
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chart/chart-original.svg" width="16" height="16"> **실용적인 프로젝트** 구현
 
-### 🎨 My Philosophy
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/palette/palette-original.svg" width="20" height="20"> My Philosophy
 > **"Readable code · Reliable systems · Delightful UX"**  
 > 읽기 쉬운 코드, 신뢰할 수 있는 시스템, 사용자를 기쁘게 하는 경험을 추구합니다.  
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-### 🐍 **Contribution Snake**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snake/snake-original.svg" width="20" height="20"> **Contribution Snake**
 
 <img src="https://raw.githubusercontent.com/toran1678/toran1678/output/snake.svg" alt="Snake animation" />
 
@@ -59,11 +59,11 @@
 
 </div>
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rocket/rocket-original.svg" width="20" height="20"> Featured Projects
 
 <div align="center">
 
-### 💎 **Featured Projects**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/diamond/diamond-original.svg" width="20" height="20"> **Featured Projects**
 
 </div>
 
@@ -71,7 +71,7 @@
 <tr>
 <td width="50%">
 
-### 👕 **VirtualFitting**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shirt/shirt-original.svg" width="20" height="20"> **VirtualFitting**
 *가상 피팅 플랫폼*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -88,7 +88,7 @@
 </td>
 <td width="50%">
 
-### 📈 **Stock Analysis System**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chart/chart-original.svg" width="20" height="20"> **Stock Analysis System**
 *뉴스·주가 분석 시스템*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-### 🌐 **Web Applications**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/globe/globe-original.svg" width="20" height="20"> **Web Applications**
 
 </div>
 
@@ -115,7 +115,7 @@
 <tr>
 <td width="33%">
 
-### 🎨 **Portfolio Blog**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/palette/palette-original.svg" width="20" height="20"> **Portfolio Blog**
 *개인 포트폴리오 블로그*
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -131,7 +131,7 @@
 </td>
 <td width="33%">
 
-### 📸 **PhotoMate**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/camera/camera-original.svg" width="20" height="20"> **PhotoMate**
 *OpenCV 이미지 편집 툴*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -147,7 +147,7 @@
 </td>
 <td width="33%">
 
-### 🎮 **Socket Omok**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/game/game-original.svg" width="20" height="20"> **Socket Omok**
 *Java 멀티플레이 게임*
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -165,11 +165,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tools/tools-original.svg" width="20" height="20"> Tech Stack
 
 <div align="center">
 
-### 💻 **Languages & Frameworks**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laptop/laptop-original.svg" width="20" height="20"> **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -177,7 +177,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-### 🎨 **Frontend Technologies**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/palette/palette-original.svg" width="20" height="20"> **Frontend Technologies**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -187,7 +187,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### ⚙️ **Backend & APIs**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gear/gear-original.svg" width="20" height="20"> **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -205,13 +205,13 @@
 ![PIL](https://img.shields.io/badge/PIL-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🗄️ **Databases & Storage**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-original.svg" width="20" height="20"> **Databases & Storage**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🐳 **DevOps & Cloud**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20" height="20"> **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -219,7 +219,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge)
 
-### 🎨 **Design & Tools**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/design/design-original.svg" width="20" height="20"> **Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
@@ -231,19 +231,19 @@
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chart/chart-original.svg" width="20" height="20"> GitHub Analytics
 
 <div align="center">
 
-### 💻 **Coding Activity**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laptop/laptop-original.svg" width="20" height="20"> **Coding Activity**
 
 <img src="https://github-readme-stats.vercel.app/api?username=toran1678&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180" />
 
-### 🗣️ **Most Used Languages**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chat/chat-original.svg" width="20" height="20"> **Most Used Languages**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toran1678&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180" />
 
-### 🔥 **Contribution Streak**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fire/fire-original.svg" width="20" height="20"> **Contribution Streak**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toran1678&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" height="180" />
 
@@ -251,18 +251,18 @@
 
 ---
 
-## 🤝 Let's Connect!
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handshake/handshake-original.svg" width="20" height="20"> Let's Connect!
 
 <div align="center">
 
-### 💬 **Get in Touch**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chat/chat-original.svg" width="20" height="20"> **Get in Touch**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://toran1678.github.io/my-blog/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toran16784@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toran1678)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toran1678)
 
-### 🎯 **What I'm Looking For**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/target/target-original.svg" width="20" height="20"> **What I'm Looking For**
 
 - 🚀 **Exciting projects** that challenge me to grow
 - 🤝 **Collaboration opportunities** with fellow developers
@@ -275,7 +275,7 @@
 
 <div align="center">
 
-### 💡 **Fun Fact**
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lightbulb/lightbulb-original.svg" width="20" height="20"> **Fun Fact**
 > *"I believe the best code is not just functional, but tells a story that others can understand and build upon."*
 
 **Thanks for visiting my profile!** ⭐  
