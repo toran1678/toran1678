@@ -32,7 +32,7 @@
 다양한 프로젝트를 통해 **풀스택 개발**을 학습하고 있는 개발자입니다.
 
 ### What I Do
-- **풀스택 웹 개발** (FastAPI + React + Docker)
+- **풀스택 웹 개발**
 - **사용자 친화적인 인터페이스** 개발
 - **다양한 기술 스택** 학습 및 적용
 - **실용적인 프로젝트** 구현
@@ -197,7 +197,7 @@
 ![RESTful API](https://img.shields.io/badge/RESTful_API-FE7A16?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### **Image Processing & Computer Vision**
+### **Data Science & Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -211,7 +211,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white -->
 
 ### **DevOps & Cloud**
 
@@ -240,8 +240,6 @@
 <!-- ### **Coding Activity**
 
 <img src="https://github-readme-stats.vercel.app/api?username=toran1678&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180" /> -->
-
-### **Most Used Languages**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toran1678&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180" />
 
@@ -282,7 +280,6 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=toran1678.toran1678&"  />
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftoran1678&label=Visitor&icon=github&color=%236ea8fe&message=&style=flat&tz=UTC">
 </div>
 
