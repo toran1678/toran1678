@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=toran%20(Seonbin)%20%7C%20Full-Stack%20Dev&fontSize=26&fontColor=ffffff)
 
 <p align="center">
-  <a href="https://toran1678.github.io">포트폴리오 블로그</a> ·
+  <a href="https://toran1678.github.io/my-blog/">포트폴리오 블로그</a> ·
   <a href="https://github.com/toran1678?tab=repositories">모든 리포지토리</a>
 </p>
 
