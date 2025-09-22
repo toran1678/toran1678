@@ -1,5 +1,6 @@
 <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=toran%20(Seonbin)%20|%20Full-Stack%20Dev&fontSize=44&fontColor=E6EDF3&desc=Build%20things%20people%20use%20%E2%80%94%20Type-safe%20frontends%20%26%20scalable%20APIs&descSize=15&descAlign=50&descAlignY=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:16A085,50:27AE60,100:2ECC71&height=220&section=header&text=toran%20(Seonbin)&fontSize=48&fontColor=ffffff&desc=%EC%9D%BD%EA%B8%B0%20%EC%89%AC%EC%9A%B4%20%EC%BD%94%EB%93%9C%20%C2%B7%20%EC%8B%A0%EB%A2%B0%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%C2%B7%20%EC%A6%90%EA%B1%B0%EC%9A%B4%20UX&descSize=15&descAlign=50&descAlignY=70)
+
 
 
 
