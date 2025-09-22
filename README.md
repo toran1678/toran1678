@@ -229,17 +229,13 @@
 
 <div align="center">
 
-### **Coding Activity**
+<!-- ### **Coding Activity**
 
-<img src="https://github-readme-stats.vercel.app/api?username=toran1678&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=toran1678&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180" /> -->
 
 ### **Most Used Languages**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toran1678&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180" />
-
-### **Contribution Streak**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=toran1678&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" height="180" />
 
 </div>
 
