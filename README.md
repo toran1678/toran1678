@@ -1,9 +1,6 @@
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:16A085,50:27AE60,100:2ECC71&height=220&section=header&text=toran%20(Seonbin)&fontSize=48&fontColor=ffffff&desc=%EC%9D%BD%EA%B8%B0%20%EC%89%AC%EC%9A%B4%20%EC%BD%94%EB%93%9C%20%C2%B7%20%EC%8B%A0%EB%A2%B0%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%C2%B7%20%EC%A6%90%EA%B1%B0%EC%9A%B4%20UX&descSize=15&descAlign=50&descAlignY=70)
 
-
-
-
 <p align="center">
   <a href="https://toran1678.github.io/my-blog/">포트폴리오 블로그</a> ·
   <a href="https://github.com/toran1678?tab=repositories">모든 리포지토리</a>
@@ -29,7 +26,11 @@ AI 기반의 가상 피팅, 뉴스·주가 분석, 컴퓨터 비전 앱까지 �
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
 </picture>
 
+
+<!--
+지렁이 게임
 <img src="https://raw.githubusercontent.com/toran1678/toran1678/output/snake.svg" alt="Snake animation" />
+-->
 
 ## 🔥 Featured Projects
 
