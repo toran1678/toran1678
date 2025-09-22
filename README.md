@@ -20,6 +20,12 @@ AI 기반의 가상 피팅, 뉴스·주가 분석, 컴퓨터 비전 앱까지 �
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🔥 Featured Projects
 
 ### 1) AI 가상 피팅 플랫폼 — **VirtualFitting**
