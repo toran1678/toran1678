@@ -1,5 +1,6 @@
 <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=toran%20(Seonbin)&fontSize=48&fontColor=ffffff&desc=Readable%20code%20%C2%B7%20Reliable%20systems%20%C2%B7%20Delightful%20UX&descSize=16&descAlign=50&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=toran%20(Seonbin)%20|%20Full-Stack%20Dev&fontSize=44&fontColor=E6EDF3&desc=Build%20things%20people%20use%20%E2%80%94%20Type-safe%20frontends%20%26%20scalable%20APIs&descSize=15&descAlign=50&descAlignY=72)
+
 
 
 <p align="center">
