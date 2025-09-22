@@ -1,5 +1,6 @@
 <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=toran%20(Seonbin)%20%7C%20Full-Stack%20Dev&fontSize=26&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=toran%20(Seonbin)&fontSize=48&fontColor=ffffff&desc=Readable%20code%20%C2%B7%20Reliable%20systems%20%C2%B7%20Delightful%20UX&descSize=16&descAlign=50&descAlignY=70)
+
 
 <p align="center">
   <a href="https://toran1678.github.io/my-blog/">포트폴리오 블로그</a> ·
