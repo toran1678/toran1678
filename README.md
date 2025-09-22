@@ -26,7 +26,6 @@ AI 기반의 가상 피팅, 뉴스·주가 분석, 컴퓨터 비전 앱까지 �
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
 </picture>
 
-
 <!--
 지렁이 게임
 <img src="https://raw.githubusercontent.com/toran1678/toran1678/output/snake.svg" alt="Snake animation" />
