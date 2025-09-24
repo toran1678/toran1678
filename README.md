@@ -49,6 +49,18 @@
     <img alt=" " src="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
 </picture>
 
+<script type="module">
+import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
+const pr = new PacmanRenderer({
+    platform: 'github',
+    username: 'toran1678',
+    canvas: document.getElementById('canvas'),
+    outputFormat: 'canvas',
+    gameTheme: 'github'
+});
+pr.start();
+</script>
+
 <div align="center">
 <!-- <img src="https://raw.githubusercontent.com/toran1678/toran1678/output/snake.svg" alt="Snake animation" /> -->
 </div>
