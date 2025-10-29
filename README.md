@@ -169,7 +169,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### **Languages & Frameworks**
 
