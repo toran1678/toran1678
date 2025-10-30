@@ -31,13 +31,13 @@
 안녕하세요! **toran**입니다. 👋  
 다양한 프로젝트를 통해 **풀스택 개발**을 학습하고 있는 개발자입니다.
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rocket.svg" width="18" /> What I Do
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rocket.svg?color=62fe2a" width="18" /> What I Do
 - **풀스택 웹 개발**
 - **사용자 친화적인 인터페이스** 개발
 - **다양한 기술 스택** 학습 및 적용
 - **실용적인 프로젝트** 구현
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/quote.svg" width="18" color="#62fe2a" /> My Philosophy
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/quote.svg" width="18" /> My Philosophy
 > **"Readable code · Reliable systems · Delightful UX"**  
 > 읽기 쉬운 코드, 신뢰할 수 있는 시스템, 사용자를 기쁘게 하는 경험을 추구합니다.  
 
