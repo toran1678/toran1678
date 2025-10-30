@@ -43,12 +43,6 @@
 
 ---
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
-    <img alt=" " src="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
-</picture>
-
 <div align="center">
 <!-- <img src="https://raw.githubusercontent.com/toran1678/toran1678/output/snake.svg" alt="Snake animation" /> -->
 </div>
@@ -244,6 +238,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toran1678&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180" />
 
 </div>
+
+---
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
+    <img alt=" " src="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
