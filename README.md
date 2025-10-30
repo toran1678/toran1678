@@ -37,11 +37,11 @@
 - **다양한 기술 스택** 학습 및 적용
 - **실용적인 프로젝트** 구현
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/quote.svg" width="18" /> My Philosophy
+### <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#62fe2a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-quote-icon lucide-quote"><path d="M16 3a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 1 1 0 0 1 1 1v1a2 2 0 0 1-2 2 1 1 0 0 0-1 1v2a1 1 0 0 0 1 1 6 6 0 0 0 6-6V5a2 2 0 0 0-2-2z"/><path d="M5 3a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 1 1 0 0 1 1 1v1a2 2 0 0 1-2 2 1 1 0 0 0-1 1v2a1 1 0 0 0 1 1 6 6 0 0 0 6-6V5a2 2 0 0 0-2-2z"/></svg> My Philosophy
 > **"Readable code · Reliable systems · Delightful UX"**  
 > 읽기 쉬운 코드, 신뢰할 수 있는 시스템, 사용자를 기쁘게 하는 경험을 추구합니다.  
 
-### ### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/badge-check.svg" width="18" style="filter: invert(1);" /> Core Skills
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/badge-check.svg" width="18" /> Core Skills
 
 - **Language**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 - **Web Development**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
