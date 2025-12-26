@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://toran1678.github.io/my-blog/)
+[![Blog](https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://toran1678.github.io/my-blog/)
 [![Resume](https://img.shields.io/badge/Resume-4C6EF5?style=for-the-badge&logo=readme&logoColor=white)](https://toran1678.github.io/resume/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toran1678?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toran16784@gmail.com)
@@ -266,7 +266,7 @@
 
 ### **Get in Touch**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://toran1678.github.io/my-blog/)
+[![Blog](https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://toran1678.github.io/my-blog/)
 [![Resume](https://img.shields.io/badge/Resume-4C6EF5?style=for-the-badge&logo=readme&logoColor=white)](https://toran1678.github.io/resume/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toran16784@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toran1678)
