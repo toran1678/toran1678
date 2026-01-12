@@ -258,6 +258,10 @@
     <img alt=" " src="https://raw.githubusercontent.com/toran1678/toran1678/output/pacman-contribution-graph.svg">
 </picture>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/toran1678"/>
+</a>
+
 ---
 
 ## Let's Connect!
