@@ -287,10 +287,12 @@
 ---
 
 <div align="center">
+
 <!-- 
 ### 💡 **Fun Fact**
 *"I believe the best code is not just functional, but tells a story that others can understand and build upon."*
 -->
+
 **Thanks for visiting my profile!** ⭐  
 *Feel free to explore my repositories and don't hesitate to reach out!*
 
