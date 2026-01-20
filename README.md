@@ -56,7 +56,7 @@
 <!-- <img src="https://raw.githubusercontent.com/toran1678/toran1678/output/snake.svg" alt="Snake animation" /> -->
 </div>
 
-## Featured Projects
+<!-- ## Featured Projects
 
 <div align="center">
 
@@ -167,6 +167,7 @@
 </table>
 
 </div>
+-->
 
 ---
 
@@ -275,23 +276,23 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toran16784@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toran1678)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toran1678)
-
+<!--
 ### **What I'm Looking For**
 
 **Exciting projects** that challenge me to grow
 **Collaboration opportunities** with fellow developers
 **Learning opportunities** in web technologies
 **Meaningful projects** that solve real problems
-
+-->
 </div>
 
 ---
 
 <div align="center">
-
+<!-- 
 ### 💡 **Fun Fact**
 > *"I believe the best code is not just functional, but tells a story that others can understand and build upon."*
-
+-->
 **Thanks for visiting my profile!** ⭐  
 *Feel free to explore my repositories and don't hesitate to reach out!*
 
