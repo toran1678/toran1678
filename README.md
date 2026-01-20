@@ -262,7 +262,7 @@
 </picture>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/toran1678" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/toran1678" width="1200" height="300"/>
 </a>
 
 ---
